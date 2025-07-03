@@ -638,6 +638,33 @@ packages: [
     ],
    
     packages: [
+      {
+    name: "Festival poster small pack",
+    price: "2000",
+    features: [
+      "20 Festival Poster Design",
+      "Print-Ready PDF",
+      "Delivery in 2 Working Days"
+    ]
+  },
+  {
+    name: "Festival poster medium pack",
+    price: "2500",
+    features: [
+      "Up to 30 Festival Poster Design",
+      "Print-Ready PDF",
+      "Delivery in 2 Working Days"
+    ]
+  },
+  {
+    name: "Festival poster large pack",
+    price: "4000",
+    features: [
+      "Up to 50 Festival Poster Design",
+      "Print-Ready PDF",
+      "Delivery in 2 Working Days"
+    ]
+  },
   {
     name: "Social media small pack",
     price: "3500",
@@ -662,33 +689,6 @@ packages: [
     price: "5500",
     features: [
       "Up to 35 Pages Design",
-      "Print-Ready PDF",
-      "Delivery in 2 Working Days"
-    ]
-  },
-  {
-    name: "Festival poster small pack",
-    price: "2000",
-    features: [
-      "20 Festival Poster Design",
-      "Print-Ready PDF",
-      "Delivery in 2 Working Days"
-    ]
-  },
-  {
-    name: "Festival poster medium pack",
-    price: "2500",
-    features: [
-      "Up to 30 Festival Poster Design",
-      "Print-Ready PDF",
-      "Delivery in 2 Working Days"
-    ]
-  },
-  {
-    name: "Festival poster large pack",
-    price: "4000",
-    features: [
-      "Up to 50 Festival Poster Design",
       "Print-Ready PDF",
       "Delivery in 2 Working Days"
     ]
